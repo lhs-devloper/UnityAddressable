@@ -5,7 +5,7 @@
 ___
 ### 서버 설정방법
 1. NodeJS설치
-2. 다운로드 받으신 폴더에 CMD창 킨 이후 cd Server 입력 이후 npm install or npm i
+2. 다운로드 받으신 폴더에 CMD창 킨 이후 cd Server 입력 이후 ```npm install``` or ```npm i```
 3. npm run start하면 서버가 켜집니다(Express, 서버에서 사용하는 포트번호는 4000번 입니다.)   
 
 
